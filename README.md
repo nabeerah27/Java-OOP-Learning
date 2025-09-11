@@ -15,18 +15,18 @@ The repo is organized into folders for easy navigation, making it useful for:
 
 ```
 Java-OOP-Learning/src/
-├── _01_Basics/                # Classes, Objects, Constructors
-├── _02_Static-Concepts/       # Static Variables, Methods, Blocks, vs Non-static, Singleton Class
-├── _03_Encapsulation/         # Encapsulation, Access Modifiers, final variables & methods, Immutability
-├── _04_Abstraction/           # Abstract Classes, Interfaces, Default & Static methods, Nested Interfaces
-├── _05_Inheritance/           # Single, Multilevel, Hierarchial, Multiple (via Interfaces), Keywords, Diamond Problem, Relationships
-├── _06_Polymorphism/          # Compile-time (Overloading), Runtime (Overriding), Dynamic Method Dispatch
-├── _07_Inner-Classes/         # Anonymous, Local, Member, Static Inner Classes
-├── _08_Built-in-Classes/      # String, StringBuilder, Wrapper Classes, Object, Math, etc.
-├── _09_Built-in-Interfaces/   # Comparable, Comparator, Cloneable, Runnable, Iterator, etc.
-├── _10_Generics/              # Generic Classes, Methods, Bounded Types, Wildcards
-├── _11_Exception-Handling/    # Try-Catch-Finally, Throw, Throws, Custom Exceptions
-├── _12_Annotations/           # @Override, @Deprecated, @FunctionalInterface, Custom Annotations
+├── _01_Basics/                        # Classes, Objects, Constructors
+├── _02_Static_Concepts/               # Static Variables, Methods, Blocks, vs Non-static, Singleton Class
+├── _03_Encapsulation/                 # Encapsulation, Access Modifiers, final variables & methods, Immutability
+├── _04_Abstraction_And_Interfaces/    # Abstract Classes, Interfaces, Default & Static methods, Extended & Nested Interfaces
+├── _05_Inheritance/                   # Single, Multilevel, Hierarchial, Multiple (via Interfaces), Keywords, Diamond Problem, Relationships
+├── _06_Polymorphism/                  # Compile-time (Overloading), Runtime (Overriding), Dynamic Method Dispatch
+├── _07_Inner_Classes/                 # Anonymous, Local, Member, Static Inner Classes
+├── _08_Built_In_Classes/              # String, StringBuilder, Wrapper Classes, Object, Math, etc.
+├── _09_Built_In_Interfaces/           # Comparable, Comparator, Cloneable, Runnable, Iterator, etc.
+├── _10_Generics/                      # Generic Classes, Methods, Bounded Types, Wildcards
+├── _11_Exception_Handling/            # Try-Catch-Finally, Throw, Throws, Custom Exceptions
+├── _12_Annotations/                   # @Override, @Deprecated, @FunctionalInterface, Custom Annotations
 └── README.md
 ```
 
