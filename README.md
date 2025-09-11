@@ -15,19 +15,18 @@ The repo is organized into folders for easy navigation, making it useful for:
 
 ```
 Java-OOP-Learning/src/
-├── 01-Basics/                # Classes, Objects, Fields & Methods
-├── 02-Constructors/          # Default values, Non-paramterized, Parameterized, Copy, Overloading
-├── 03-Inheritance/           # Single, Multilevel, Hierarchial, Multiple (via Interfaces), Keywords, Diamond Problem, Relationships
-├── 04-Polymorphism/          # Compile-time (Overloading), Runtime (Overriding), Dynamic Method Dispatch
-├── 05-Abstraction/           # Abstract Classes, Interfaces, Default & Static methods, Nested Interfaces
-├── 06-Encapsulation/         # Encapsulation, Access Modifiers, final variables & methods, Immutability
-├── 07-Static-Concepts/       # Static Variables, Methods, Blocks, vs Non-static, Singleton Class
-├── 08-Inner-Classes/         # Anonymous, Local, Member, Static Inner Classes
-├── 09-Built-in-Classes/      # String, StringBuilder, Wrapper Classes, Object, Math, etc.
-├── 10-Built-in-Interfaces/   # Comparable, Comparator, Cloneable, Runnable, Iterator, etc.
-├── 11-Generics/              # Generic Classes, Methods, Bounded Types, Wildcards
-├── 12-Exception-Handling/    # Try-Catch-Finally, Throw, Throws, Custom Exceptions
-├── 13-Annotations/           # @Override, @Deprecated, @FunctionalInterface, Custom Annotations
+├── _01_Basics/                # Classes, Objects, Constructors
+├── _02_Inheritance/           # Single, Multilevel, Hierarchial, Multiple (via Interfaces), Keywords, Diamond Problem, Relationships
+├── _03_Polymorphism/          # Compile-time (Overloading), Runtime (Overriding), Dynamic Method Dispatch
+├── _04_Abstraction/           # Abstract Classes, Interfaces, Default & Static methods, Nested Interfaces
+├── _05_Encapsulation/         # Encapsulation, Access Modifiers, final variables & methods, Immutability
+├── _06_Static-Concepts/       # Static Variables, Methods, Blocks, vs Non-static, Singleton Class
+├── _07_Inner-Classes/         # Anonymous, Local, Member, Static Inner Classes
+├── _08_Built-in-Classes/      # String, StringBuilder, Wrapper Classes, Object, Math, etc.
+├── _09_Built-in-Interfaces/   # Comparable, Comparator, Cloneable, Runnable, Iterator, etc.
+├── _10_Generics/              # Generic Classes, Methods, Bounded Types, Wildcards
+├── _11_Exception-Handling/    # Try-Catch-Finally, Throw, Throws, Custom Exceptions
+├── _12_Annotations/           # @Override, @Deprecated, @FunctionalInterface, Custom Annotations
 └── README.md
 ```
 
