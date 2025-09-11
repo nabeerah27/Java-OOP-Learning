@@ -16,11 +16,11 @@ The repo is organized into folders for easy navigation, making it useful for:
 ```
 Java-OOP-Learning/src/
 ├── _01_Basics/                # Classes, Objects, Constructors
-├── _02_Encapsulation/         # Encapsulation, Access Modifiers, final variables & methods, Immutability
-├── _03_Abstraction/           # Abstract Classes, Interfaces, Default & Static methods, Nested Interfaces
-├── _04_Inheritance/           # Single, Multilevel, Hierarchial, Multiple (via Interfaces), Keywords, Diamond Problem, Relationships
-├── _05_Polymorphism/          # Compile-time (Overloading), Runtime (Overriding), Dynamic Method Dispatch
-├── _06_Static-Concepts/       # Static Variables, Methods, Blocks, vs Non-static, Singleton Class
+├── _02_Static-Concepts/       # Static Variables, Methods, Blocks, vs Non-static, Singleton Class
+├── _03_Encapsulation/         # Encapsulation, Access Modifiers, final variables & methods, Immutability
+├── _04_Abstraction/           # Abstract Classes, Interfaces, Default & Static methods, Nested Interfaces
+├── _05_Inheritance/           # Single, Multilevel, Hierarchial, Multiple (via Interfaces), Keywords, Diamond Problem, Relationships
+├── _06_Polymorphism/          # Compile-time (Overloading), Runtime (Overriding), Dynamic Method Dispatch
 ├── _07_Inner-Classes/         # Anonymous, Local, Member, Static Inner Classes
 ├── _08_Built-in-Classes/      # String, StringBuilder, Wrapper Classes, Object, Math, etc.
 ├── _09_Built-in-Interfaces/   # Comparable, Comparator, Cloneable, Runnable, Iterator, etc.
