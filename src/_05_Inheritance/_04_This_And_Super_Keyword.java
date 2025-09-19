@@ -9,16 +9,16 @@ class Person {
 }
 
 // Child class
-class Student extends Person {
+class Teacher extends Person {
 
-    // Default constructor of Student
-    Student() {
+    // Default constructor of Teacher
+    Teacher() {
         this("Unknown");   // Calls the parameterized constructor of the same class
         System.out.println("Student default constructor");
     }
 
-    // Parameterized constructor of Student
-    Student(String name) {
+    // Parameterized constructor of Teacher
+    Teacher(String name) {
         super(name);   // Calls constructor of the Parent class (Person)
         System.out.println("Student parameterized constructor");
     }
@@ -27,13 +27,13 @@ class Student extends Person {
 public class _04_This_And_Super_Keyword {
     public static void main(String[] args) {
 
-        // When we create Student with default constructor
-        System.out.println("--- Student object with default constructor ---");
-        Student s1 = new Student();
+        // When we create Teacher with default constructor
+        System.out.println("--- Teacher object with default constructor ---");
+        Teacher s1 = new Teacher();
 
-        // When we create Student with parameterized constructor
-        System.out.println("\n--- Student object with parameterized constructor ---");
-        Student s2 = new Student("Luna");
+        // When we create Teacher with parameterized constructor
+        System.out.println("\n--- Teacher object with parameterized constructor ---");
+        Teacher s2 = new Teacher("Luna");
 
     }
 }
