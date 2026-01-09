@@ -24,9 +24,6 @@ Java-OOP-Learning/src/
 ├── _07_Inner_Classes/                 # Anonymous, Local, Member, Static Inner Classes
 ├── _08_Built_In_Classes/              # String, StringBuilder, Wrapper Classes, Object, Math, etc.
 ├── _09_Built_In_Interfaces/           # Comparable, Comparator, Cloneable, Runnable, Iterator, etc.
-├── _10_Generics/                      # Generic Classes, Methods, Bounded Types, Wildcards
-├── _11_Exception_Handling/            # Try-Catch-Finally, Throw, Throws, Custom Exceptions
-├── _12_Annotations/                   # @Override, @Deprecated, @FunctionalInterface, Custom Annotations
 └── README.md
 ```
 
@@ -78,16 +75,13 @@ This code is available under the MIT License — check [LICENSE](LICENSE) for mo
 
 ## 🔗 Let’s Connect
 
-<div>
+<p align="left">
   <a href="https://github.com/nabeerah27">
-    <img src="https://img.shields.io/badge/GitHub-nabeerah27-black?logo=github&logoColor=white" alt="GitHub" height="20">
+    <img src="https://img.shields.io/badge/github-nabeerah27-black?style=for-the-badge&logo=github" alt="GitHub">
   </a>
-</div>
-
-<div>
-  <a href="https://www.linkedin.com/in/nabeerah27">
-    <img src="https://img.shields.io/badge/LinkedIn-nabeerah27-blue?logo=linkedin&logoColor=white" alt="LinkedIn" height="20">
+  <a href="https://linkedin.com/in/nabeerah27">
+    <img src="https://img.shields.io/badge/linkedin-nabeerah27-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn">
   </a>
-</div>
+</p>
 
 
