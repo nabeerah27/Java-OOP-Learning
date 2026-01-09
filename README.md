@@ -79,6 +79,9 @@ This code is available under the MIT License — check [LICENSE](LICENSE) for mo
   <a href="https://github.com/nabeerah27">
     <img src="https://img.shields.io/badge/github-nabeerah27-black?style=for-the-badge&logo=github" alt="GitHub">
   </a>
+</p>
+
+<p>
   <a href="https://linkedin.com/in/nabeerah27">
     <img src="https://img.shields.io/badge/linkedin-nabeerah27-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn">
   </a>
